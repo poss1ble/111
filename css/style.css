@@ -1,26 +1,4 @@
-body {
-    background: #fff;
-    color: white;
-    font-family: "Open Sans", sans-serif;
-    font-size: 14px;
-}
-nav ul {
-    padding: 0;
+h1 {
+  color: #aeaeae; }
 
-}
-.flex-container a {
-    text-decoration: none;
-}
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    background: #ffffff;
-    margin-top: 5px;
-}
-.flex-element {
-    display: flex;
-    color: black;
-    padding: 15px;
-    background: #ffffff;
+/*# sourceMappingURL=style.css.map */
